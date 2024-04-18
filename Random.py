@@ -1,6 +1,7 @@
 import random
 import string
 
+#generate password 
 def generate_password():
     # Define character sets
     lowercase_letters = string.ascii_lowercase
